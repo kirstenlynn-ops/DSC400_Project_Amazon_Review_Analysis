@@ -9,8 +9,10 @@
         h1 { color: #FF9900; text-align: center; margin-top: 20px; }
         h4 { color: #232F3E; text-align: center; margin-bottom: 20px; }
         .kpi-cards { display: flex; flex-wrap: wrap; justify-content: space-around; }
-        .kpi-card { background-color: white; border-radius: 5px; padding: 15px; margin: 10px;
-                    box-shadow: 2px 2px 5px rgba(0,0,0,0.1); text-align: center; min-width: 180px; }
+        .kpi-card { 
+            background-color: white; border-radius: 5px; padding: 15px; margin: 10px; 
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.1); text-align: center; min-width: 180px; 
+        }
         .kpi-number { font-size: 1.8em; font-weight: bold; }
         .kpi-label { font-size: 1em; color: #555; }
         .insights { margin: 30px; }
@@ -23,20 +25,20 @@
 <h4>Created by: Kirsten Livingston – DSC 400</h4>
 
 <div class="kpi-cards">
-    <div class="kpi-card" style="background-color:#FF9900; color:white;">
+    <div class="kpi-card" style="background-color: #FF9900; color:white;">
         <div class="kpi-label">Average Rating</div>
         <div class="kpi-number">{avg_rating} ⭐</div>
     </div>
-    <div class="kpi-card" style="background-color:#232F3E; color:white;">
+    <div class="kpi-card" style="background-color: #232F3E; color:white;">
         <div class="kpi-label">Most Reviewed Product</div>
         <div class="kpi-number">{most_reviewed_product}</div>
         <div>{most_reviews_count:,} reviews</div>
     </div>
-    <div class="kpi-card" style="background-color:#4A4A4A; color:white;">
+    <div class="kpi-card" style="background-color: #4A4A4A; color:white;">
         <div class="kpi-label">Avg Sentiment Score</div>
         <div class="kpi-number">{avg_sentiment}</div>
     </div>
-    <div class="kpi-card" style="background-color:#FF9900; color:white;">
+    <div class="kpi-card" style="background-color: #FF9900; color:white;">
         <div class="kpi-label">Top Reviewer</div>
         <div class="kpi-number">{top_reviewer}</div>
         <div>{top_reviewer_count:,} reviews</div>
@@ -56,7 +58,6 @@
 
 <h4 style="margin-left:30px;">Visualizations</h4>
 
-<!-- Plots from Python -->
 <div class="chart">
     {pio.to_html(fig1, full_html=False, include_plotlyjs='cdn')}
 </div>
