@@ -88,8 +88,6 @@ Yes. Verified purchases tend to have slightly different rating patterns compared
 
 ## 📍 Deliverables
 
-## 📍 Deliverables
-
 | Task                  | Link |
 |-----------------------|------|
 | Jupyter Notebooks     | [Data ingestion & Cleaning](https://github.com/kirstenlynn-ops/DSC400_Project_Amazon_Review_Analysis/tree/main/notebooks) |
