@@ -92,12 +92,12 @@ Yes. Verified purchases tend to have slightly different rating patterns compared
 
 | Task                  | Link |
 |-----------------------|------|
-| Jupyter Notebooks     | [Data ingestion & Cleaning]([#](https://github.com/kirstenlynn-ops/DSC400_Project_Amazon_Review_Analysis/tree/main/notebooks)) |
+| Jupyter Notebooks     | [Data ingestion & Cleaning](https://github.com/kirstenlynn-ops/DSC400_Project_Amazon_Review_Analysis/tree/main/notebooks) |
 | Final Report          | [EDA & Feature Engineering (FE)](#) |
 | Presentation          | [Canva Presentation](#) |
 | OTHER                 |                     |
-| GitHub Project Page   | [More About the Project]([#](https://kirstenlynn-ops.github.io/DSC400_Project_Amazon_Review_Analysis/)) |
-| Dashboard             | [Clear Visuals to show insights]([#](https://kirstenlynn-ops.github.io/DSC400_Project_Amazon_Review_Analysis/Amazon_Reviews_Static_Dashboard.html)) |                       
+| GitHub Project Page   | [More About the Project](https://kirstenlynn-ops.github.io/DSC400_Project_Amazon_Review_Analysis/) |
+| Dashboard             | [Clear Visuals to show insights](https://kirstenlynn-ops.github.io/DSC400_Project_Amazon_Review_Analysis/Amazon_Reviews_Static_Dashboard.html) |                       
 | Plotly Dashboard      | [Interactive visuals that display insights from the data](https://d6ecc19c-fbb6-4979-a90e-17c19e5062af.plotly.app/) |
 
 - NOTE: Plotly Dashboard may be inactive due to Plotly's free plan to create Interactive Dashboards. The Static Dashboard was created to minic the visuals and findings from the Plotly Dashboard.
