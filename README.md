@@ -5,8 +5,7 @@
 |--------------------------------------------------------------------------------------------------------|
 |GitHub Repo: https://github.com/kirstenlynn-ops/DSC400_Project_Amazon_Review_Analysis                   |
 |(Contains notebooks, data work cycle, datasets throughout cleaning and feature engineering              |
-|Final Static Dashboard: https://kirstenlynn-ops.github.io/DSC400_Project_Amazon_Review_Analysis/
-Amazon_Reviews_Static_Dashboard.html                                                                    |
+|Final Static Dashboard: https://kirstenlynn-ops.github.io/DSC400_Project_Amazon_Review_Analysis/Amazon_Reviews_Static_Dashboard.html                                                                    |
 |(Final visuals and Key Insights)                                                                        |
 |Project Page: https://kirstenlynn-ops.github.io/DSC400_Project_Amazon_Review_Analysis/                  | 
 |(More about this project)                                                                               |
