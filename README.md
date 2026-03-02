@@ -54,7 +54,7 @@ Do verified purchase reviews differ in rating compared to non-verified reviews?
 Answer 4:
 Yes. Verified purchases tend to have slightly different rating patterns compared to non-verified ones. This ensures that we are focusing on authentic experiences.  
 
-- NOTE: More Modeling Q & A was conducted. See more in the [Final Write Up](xx).
+- NOTE: More Modeling Q & A was conducted. See more in the [Final Write Up](https://github.com/kirstenlynn-ops/DSC400_Project_Amazon_Review_Analysis/blob/main/DSC400%20Final%20Write-Up.pdf).
 ---
 ## 🛠 Project Workflow
 |Stage (Notebook)   | Description|
