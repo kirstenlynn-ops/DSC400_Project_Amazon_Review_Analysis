@@ -60,7 +60,7 @@ Yes. Verified purchases tend to have slightly different rating patterns compared
 |Stage (Notebook)   | Description|
 |-------------------|---------------------------------------------------------     |
 | NB 1              | Data ingestion & Cleaning                                    |
-| NB 2              | Exploratory Data Analysis (EDA & Feature Engineering (FE)    |
+| NB 2              | Exploratory Data Analysis (EDA) & Feature Engineering (FE)    |
 | NB 3              | Visualization                                                |
 | NB 3b             | Dashboard                                                    |
 | NB 4              | Statistical Analysis                                         |
