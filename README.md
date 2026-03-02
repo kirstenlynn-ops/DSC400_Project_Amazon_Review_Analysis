@@ -90,8 +90,8 @@ Yes. Verified purchases tend to have slightly different rating patterns compared
 
 | Task                  | Link |
 |-----------------------|------|
-| Jupyter Notebooks     | [Data ingestion & Cleaning](https://github.com/kirstenlynn-ops/DSC400_Project_Amazon_Review_Analysis/tree/main/notebooks) |
-| Final Report          | [EDA & Feature Engineering (FE)](#) |
+| Jupyter Notebooks     | [Notebooks 1-5](https://github.com/kirstenlynn-ops/DSC400_Project_Amazon_Review_Analysis/tree/main/notebooks) |
+| Final Report          | [Write-Up](#) |
 | Presentation          | [Canva Presentation](#) |
 | OTHER                 |                     |
 | Project Home Page   | [More About the Project](https://kirstenlynn-ops.github.io/DSC400_Project_Amazon_Review_Analysis/) |
