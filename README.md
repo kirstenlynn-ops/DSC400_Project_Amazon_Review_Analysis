@@ -91,7 +91,7 @@ Yes. Verified purchases tend to have slightly different rating patterns compared
 | Task                  | Link |
 |-----------------------|------|
 | Jupyter Notebooks     | [Notebooks 1-5](https://github.com/kirstenlynn-ops/DSC400_Project_Amazon_Review_Analysis/tree/main/notebooks) |
-| Final Report          | [Write-Up](#) |
+| Final Report          | [Write-Up](https://github.com/kirstenlynn-ops/DSC400_Project_Amazon_Review_Analysis/blob/main/DSC400%20Final%20Write-Up.pdf) |
 | Presentation          | [Canva Presentation](https://www.canva.com/design/DAHCjUxhA4E/HJ39M9-LATsJ7D25y_xEkg/edit) |
 | OTHER                 |                     |
 | Project Home Page   | [More About the Project](https://kirstenlynn-ops.github.io/DSC400_Project_Amazon_Review_Analysis/) |
