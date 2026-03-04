@@ -1,11 +1,9 @@
 # 📦 Amazon Reviews Analysis & Dashboard (2026)
 - Prepared by: Kirsten Livingston
 
-|Project Deliverables & Repository Access                                                                |
-|--------------------------------------------------------------------------------------------------------|
 ## 📍 Deliverables
 
-| Task                  | Link |
+| Project Deliverables  | Link |
 |-----------------------|------|
 | Jupyter Notebooks     | [Notebooks 1-5](https://github.com/kirstenlynn-ops/DSC400_Project_Amazon_Review_Analysis/tree/main/notebooks) |
 | Final Report          | [Write-Up](https://github.com/kirstenlynn-ops/DSC400_Project_Amazon_Review_Analysis/blob/main/DSC400%20Final%20Write-Up.pdf) |
