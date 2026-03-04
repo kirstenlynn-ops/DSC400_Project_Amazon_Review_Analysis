@@ -3,13 +3,20 @@
 
 |Project Deliverables & Repository Access                                                                |
 |--------------------------------------------------------------------------------------------------------|
-|GitHub Repo: https://github.com/kirstenlynn-ops/DSC400_Project_Amazon_Review_Analysis                   |
-|(Contains notebooks, data work cycle, datasets throughout cleaning and feature engineering              |
-|Final Static Dashboard: https://kirstenlynn-ops.github.io/DSC400_Project_Amazon_Review_Analysis/Amazon_Reviews_Static_Dashboard.html                                                                    |
-|(Final visuals and Key Insights)                                                                        |
-|Project Overview: https://kirstenlynn-ops.github.io/DSC400_Project_Amazon_Review_Analysis/                | 
-|(More about this project)                                                                               |
+## 📍 Deliverables
 
+| Task                  | Link |
+|-----------------------|------|
+| Jupyter Notebooks     | [Notebooks 1-5](https://github.com/kirstenlynn-ops/DSC400_Project_Amazon_Review_Analysis/tree/main/notebooks) |
+| Final Report          | [Write-Up](https://github.com/kirstenlynn-ops/DSC400_Project_Amazon_Review_Analysis/blob/main/DSC400%20Final%20Write-Up.pdf) |
+| Presentation          | [Canva Presentation](https://www.canva.com/design/DAHCjUxhA4E/HJ39M9-LATsJ7D25y_xEkg/edit) |
+| OTHER                 |                     |
+| Project Home Page   | [More About the Project](https://kirstenlynn-ops.github.io/DSC400_Project_Amazon_Review_Analysis/) |
+| Dashboard             | [Clear Visuals to show insights](https://kirstenlynn-ops.github.io/DSC400_Project_Amazon_Review_Analysis/Amazon_Reviews_Static_Dashboard.html) |                       
+| Plotly Dashboard      | [Interactive visuals that display insights from the data](https://d6ecc19c-fbb6-4979-a90e-17c19e5062af.plotly.app) |                                                                              |
+
+
+- NOTE: Plotly Dashboard may be inactive due to Plotly's free plan to create Interactive Dashboards. The Static Dashboard was created to minic the visuals and findings from the Plotly Dashboard.
 
 ## Introduction
 This report presents a comprehensive analysis of Amazon Customer Reviews, designed to extract insights from Amazon_dataset 2026 (~123 GB) created by Sahitya Sahu on Kaggle. The dataset contains millions of customer reviews, ratings, product metadata, and timestamps, many of which often contain unstructured text, missing values, and class imbalances, which complicate predictive modeling. By leveraging NLTK for text preprocessing, feature engineering, and fine-tuning DistilBERT for sentiment classification, the pipeline achieved an 82.6% accuracy on review sentiment prediction. This project’s primary goal is to demonstrate a scalable framework for converting raw review data into actionable insights. 
@@ -85,17 +92,3 @@ Yes. Verified purchases tend to have slightly different rating patterns compared
 - Top reviewers dominate a small portion of total reviews
 - Class imbalance is significant (5-star reviews cover ~66% of the data)
 - Hierarchical models improved mid-range rating prediction
-
-## 📍 Deliverables
-
-| Task                  | Link |
-|-----------------------|------|
-| Jupyter Notebooks     | [Notebooks 1-5](https://github.com/kirstenlynn-ops/DSC400_Project_Amazon_Review_Analysis/tree/main/notebooks) |
-| Final Report          | [Write-Up](https://github.com/kirstenlynn-ops/DSC400_Project_Amazon_Review_Analysis/blob/main/DSC400%20Final%20Write-Up.pdf) |
-| Presentation          | [Canva Presentation](https://www.canva.com/design/DAHCjUxhA4E/HJ39M9-LATsJ7D25y_xEkg/edit) |
-| OTHER                 |                     |
-| Project Home Page   | [More About the Project](https://kirstenlynn-ops.github.io/DSC400_Project_Amazon_Review_Analysis/) |
-| Dashboard             | [Clear Visuals to show insights](https://kirstenlynn-ops.github.io/DSC400_Project_Amazon_Review_Analysis/Amazon_Reviews_Static_Dashboard.html) |                       
-| Plotly Dashboard      | [Interactive visuals that display insights from the data](https://d6ecc19c-fbb6-4979-a90e-17c19e5062af.plotly.app) |
-
-- NOTE: Plotly Dashboard may be inactive due to Plotly's free plan to create Interactive Dashboards. The Static Dashboard was created to minic the visuals and findings from the Plotly Dashboard.
